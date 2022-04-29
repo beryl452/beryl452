@@ -1,13 +1,13 @@
-﻿<h3 align="right">
+﻿<h3 align="left">
   Welcome to Béryl's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-<p align="center">
-  <a href="https://github.com/beryl452/beryl452"><img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Beryl+HOUESSOU;I+am+a+High+school+student;I am Web+Developper;"></a>
+<p align="left">
+  <a href="https://github.com/beryl452/beryl452"><img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Beryl+HOUESSOU;I+am+a+High+school+student;"></a>
 </p>
 
 ---
-<div align="center">
+<div align="left">
   
 # 💫About Me :
 🔭 I’m currently working on my "théorie des graphes" projects :https://github.com/beryl452/TheorieDesGraphes
