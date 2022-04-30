@@ -15,8 +15,6 @@
 
   👯 I’m looking to collaborate on my webpage
 
-  🤔 I’m Not looking for help
-
   💬 Ask me about for any help
 
   📫 How to reach me:  
