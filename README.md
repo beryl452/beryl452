@@ -9,9 +9,9 @@
 <div align="left">
  
 # 💫About Me :
-🔭 I’m currently working on my "théorie des graphes" projects :https://github.com/beryl452/TheorieDesGraphes
+🔭 I’m currently working on my "théorie des graphes" project :https://github.com/beryl452/TheorieDesGraphes
   
-🌱 I’m currently learning : Node.js
+🌱 I’m currently learning : Node.js and Php
 
   👯 I’m looking to collaborate on my webpage
 
