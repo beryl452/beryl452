@@ -5,11 +5,11 @@
 <p align="left">
   <a href="https://github.com/beryl452/beryl452"><img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Béryl+HOUESSOU;I+am+a+High+school+student;"></a>
 </p>
----
-<div align="left">
+---<div align="left">
  
 # 💫About Me :
-🔭 I’m currently working on my "théorie des graphes" project :[https://github.com/beryl452/CrudUsingOopInPhp.git)](https://github.com/beryl452/CrudUsingOopInPhp.git)
+  
+  🔭 I’m currently working on my "théorie des graphes" project :[https://github.com/beryl452/CrudUsingOopInPhp.git)](https://github.com/beryl452/CrudUsingOopInPhp.git)
   
   🌱 I’m currently learning : Node.js and Php
 
@@ -17,10 +17,7 @@
 
   💬 Ask me about for any help
 
-  📫 How to reach me:  
-  
-  Mail me at "beryl.houessou@gmail.com" 
-
+  📫 How to reach me:  "beryl.houessou@gmail.com" 
 
 ## 🌐Socials
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fshields.io)](https://twitter.com/Bryl_07) 
