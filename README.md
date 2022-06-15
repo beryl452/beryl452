@@ -25,6 +25,6 @@
 ## 🌐Socials
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fshields.io)](https://twitter.com/Bryl_07) 
 
-# 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 2px> 
+# Tech Stack 👨🏾‍💻👨🏾‍💻👨🏾‍💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![C](https://img.shields.io/badge/C-%2300C4CC.svg?style=for-the-badge&logo=C&logoColor=white) ![PHP](https://img.shields.io/badge/php-%2300C4CC.svg?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300C4CC.svg?style=for-the-badge&logo=C++&logoColor=white) ![VueJS](https://img.shields.io/badge/vue.js-%2300C4CC.svg?style=for-the-badge&logo=vue.js&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MERISE](https://img.shields.io/badge/MERISE-%2300C4CC.svg?style=for-the-badge&logo=MERISE&logoColor=white) 
 </div>
